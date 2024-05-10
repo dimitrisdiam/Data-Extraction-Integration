@@ -3,10 +3,8 @@
 ## Overview
 This project is a part of the coursework for Data Extraction & Integration. It includes a comprehensive approach to redesigning a database schema, querying the database, and extracting data using Python.
 
-## Team Members
-- Dimitrios Diamantidis - 7766408
-- Johan Hensman - 1118994
-- Nicky Schilperoort - 5755354
+## Participant
+- Dimitrios Diamantidis
 
 ## Project Structure
 
