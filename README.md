@@ -1,4 +1,4 @@
-# Data Extraction & Integration Project - Assignment 1
+# Data Extraction & Integration Project
 
 ## Overview
 This project is a part of the coursework for Data Extraction & Integration. It includes a comprehensive approach to redesigning a database schema, querying the database, and extracting data using Python.
